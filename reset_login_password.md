@@ -5,7 +5,7 @@ While you forgot your login passowrd, there have some easy methods to reset pass
 1. Using Windows installation ISO.
 - booting from ISO, while display setup , press "**shift F10**" , then will open command windows.
 
-![image-20241208162844155](/Users/Cary/Documents/myworkspace/Windows/assets/image-20241208162844155.png)
+![image-20241208162844155](assets/image-20241208162844155.png)
 
 - Under the cmd window:
   - find the windows partition of your hard disk by diskpart.
@@ -17,14 +17,14 @@ While you forgot your login passowrd, there have some easy methods to reset pass
   - Exit the windows, return Windows Setup screen.
 
 - restart system and waiting user login screen.
-- Click ![image-20241208165608047](/Users/Cary/Documents/myworkspace/Windows/assets/image-20241208165608047.png) button
+- Click ![image-20241208165608047](assets/image-20241208165608047.png) button
 - this will open command windows. 
 
-![image-20241208165808093](/Users/Cary/Documents/myworkspace/Windows/assets/image-20241208165808093.png)
+![image-20241208165808093](assets/image-20241208165808093.png)
 
 running **control userpasswords2** , will open user manage windows where you can reset your password. after reset password, close command window. return to normal login screen.
 
-![image-20241208170135553](/Users/Cary/Documents/myworkspace/Windows/assets/image-20241208170135553.png)
+![image-20241208170135553](/assets/image-20241208170135553.png)
 
 Input your new password. you can login windows now.!!!
 
